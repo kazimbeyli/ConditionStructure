@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ConditionStructure\bin\Debug\net8.0\ConditionStructure.exe
+C:\Users\user\source\repos\ConditionStructure\bin\Debug\net8.0\ConditionStructure.deps.json
+C:\Users\user\source\repos\ConditionStructure\bin\Debug\net8.0\ConditionStructure.runtimeconfig.json
+C:\Users\user\source\repos\ConditionStructure\bin\Debug\net8.0\ConditionStructure.dll
+C:\Users\user\source\repos\ConditionStructure\bin\Debug\net8.0\ConditionStructure.pdb
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ConditionStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ConditionStructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ConditionStructure.AssemblyInfo.cs
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ConditionStructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ConditionStructure.dll
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\refint\ConditionStructure.dll
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ConditionStructure.pdb
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ConditionStructure.genruntimeconfig.cache
+C:\Users\user\source\repos\ConditionStructure\obj\Debug\net8.0\ref\ConditionStructure.dll
