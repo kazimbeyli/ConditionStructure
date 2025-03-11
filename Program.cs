@@ -30,7 +30,7 @@
 
 
 //İstifadəçi char tipindən dəyər daxil edib (input) char 'a' hərfinə bərabərdirsə ekrana "Azərbaycan dili seçildi" yazısı gəlsin(output), 'r' hərfinə bərabərdirsə "Rus dili seçildi" yazısı gəlsin (output). Digər bütün hallarda "Yanlış sorğu" yazısı gəlsin(output).
-char value='h';
+char value='a';
 if (value == 'a' || value == 'A')
 {
     Console.WriteLine("Azebaycan dili secildi");
